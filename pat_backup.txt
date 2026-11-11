@@ -1,0 +1,2 @@
+0 * * * * /bin/bash /mnt/c/Users/kcnar/projects/notes/cron-test.ssdgcvsgdcfsgydcvsbvc sucx
+iu my self prathyuisha am practing some linux commands ,trying to do little fatsre any cost i do it fasth
